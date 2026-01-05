@@ -17,7 +17,6 @@ ZAP operates as an intercepting proxy, allowing it to sit between a web browser 
 - **Spidering (Crawling)** – Automatically maps the structure of the target application and discovers hidden endpoints.
 - **API & Automation Support** – Can be integrated into CI/CD pipelines for continuous security testing.
 
----
 
  **Scan Description**
 An Automated Scan was launched against DVWA hosted at: http://172.17.0.2/dvwa
